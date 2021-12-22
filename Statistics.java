@@ -15,9 +15,6 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
 
 /**
 * This is the statistics program.
@@ -76,16 +73,16 @@ final class Statistics {
         }
     }
 
-    /**
-    * The mode() function.
-    *
-    * @param numbers the collection of integers
-    * @return the mode of the integers
-    */
-    /**public static List<Integer> mode(final Integer[] numbers) {
+    //**
+    //* The mode() function.
+    //*
+    //* @param numbers the collection of integers
+    //* @return the mode of the integers
+    //*/
+    //public static List<Integer> mode(final Integer[] numbers) {
 
-        return mode;
-    }*/
+    //    return mode;
+    //}
 
     /**
     * The starting main() function.
